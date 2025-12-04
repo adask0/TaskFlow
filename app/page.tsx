@@ -7,7 +7,7 @@ import TrustedPartners from "@/components/TrustedPartners";
 export default function Home() {
   return (
     <div>
-      <main className="container mx-auto px-4 py-10 max-w-7xl flex flex-col items-center">
+      <main className="container mx-auto px-4 py-10 max-w-7xl flex flex-col items-center overflow-hidden">
         <h1 className="text-4xl font-bold text-center text-[#102c4d] mb-8">
           Witamy w <strong>TaskFlow</strong>
           <br></br>
